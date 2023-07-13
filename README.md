@@ -17,6 +17,7 @@ Data Wave
 	* [Decisions by task](#decisions-by-task)
     * [Associated tasks](#associated-tasks)
 6. [Collaborators](#collaborators)
+7. [Results of the competition](#results)
 
 ## Description
 Data Wave is a project carried out in the international FemHack Vol.II.
@@ -206,3 +207,15 @@ $ npm i @nivo/geo
     </a>
   </div>
 </div>
+
+# Results
+Summary of final results of the hackathon
+![](./src/assets/results.png)
+
+[Results complete Page one](./src/assets/FemHackChallenge-Report/FemHackChallenge-Report1024_1.png)
+
+[Results complete Page two](./src/assets/FemHackChallenge-Report/FemHackChallenge-Report1024_2.png)
+
+[Results complete Page three](./src/assets/FemHackChallenge-Report/FemHackChallenge-Report1024_3.png)
+
+
